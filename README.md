@@ -1,13 +1,7 @@
-Grayscale Jekyll theme
+Grayscale Jekyll Website for Fred Hopkinson
 =========================
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+## Profile site
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+This is my first site using Jekyll and github which is great practice and also adds to my portfolio developed over the time I have spent at General Assembly's Web Development Immersive.
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
