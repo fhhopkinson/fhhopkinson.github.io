@@ -270,6 +270,7 @@ a:focus {
 
 .download-section {
     width: 100%;
+    height: 500px;
     padding: 50px 0;
     color: #fff;
     background: url(/img/horse.jpg) no-repeat bottom center scroll;
