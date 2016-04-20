@@ -2,15 +2,15 @@
 title: UndeadFred
 email: fhhopkinson@gmail.com
 url: https://www.undeadfred.co.uk
-description: "This briliant site depicts its creator in a wonderful light portraying him as a warrior savant."
+description: "This brilliant site depicts its creator in a wonderful light portraying him as a warrior savant."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
+  primary-dark: '#ffffff'
   links: '#219ab3'
 
 # Footer settings
-footer: Undead<i class="fa fa-heartbeat" aria-hidden="true"></i>Fred
+footer: Undead<i class="fa fa-heartbeat" aria-hidden="true">Fred</i>
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
