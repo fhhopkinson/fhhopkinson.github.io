@@ -6,7 +6,7 @@ description: "This brilliant site depicts its creator in a wonderful light portr
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#ffffff'
+  primary-dark: '000000'
   links: '#219ab3'
 
 # Footer settings
